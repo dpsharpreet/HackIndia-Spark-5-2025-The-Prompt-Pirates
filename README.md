@@ -1,4 +1,3 @@
-# HackIndia-Spark-5-2025-The-Prompt-Pirates
 # CampusCopilot - AI-Powered Campus Assistant
 
 CampusCopilot is an intelligent chatbot designed to assist students, faculty, and visitors at Chitkara University by providing instant answers to common campus-related queries.
